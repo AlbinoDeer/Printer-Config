@@ -1,0 +1,7 @@
+.env
+secrets.conf
+version
+script.sh
+install.sh
+klipper-backup
+.env.example
